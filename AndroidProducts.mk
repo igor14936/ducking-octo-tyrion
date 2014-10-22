@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/newman.mk
+$(LOCAL_DIR)/asus.mk
